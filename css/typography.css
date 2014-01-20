@@ -43,48 +43,48 @@ p, ul, ol, dl, table, hr {
 }
 
 .yotta {
-  font-size: 2.2807rem; /* 2 steps above h1 */ /* 36.48 pixels / 52.72 pixels */ 
-  line-height: 1.3154; /* line-height: ceil(font-size ÷ base-line-height) × (base-line-height ÷ font-size) */ 
+  font-size: 4.7684rem; 
+  line-height: 1.2583; 
 }
 
 .zetta {
-  font-size: 2.0273rem;  /* One step above h1 */
-  line-height: 1.4798;
+  font-size: 3.8147rem;  
+  line-height: 1.1796;
 }
 
 h1, .exa {
-  font-size: 1.8020rem;
-  line-height: 1.6648;
+  font-size: 3.0518rem;
+  line-height: 1.4746;
 }
 
 h2, .peta {
-  font-size: 1.6018rem;  /* take previous font size and multiple by ratio to get next # */
-  line-height: 1.8729;
+  font-size: 2.4414rem;  
+  line-height: 1.2288;
 }
 
 h3, .tera {
-  font-size: 1.4238rem;
-  line-height: 1.0535;
+  font-size: 1.9531rem;
+  line-height: 1.5360;
 }
 
 h4, .giga {
-  font-size: 1.2656rem;
-  line-height: 1.1852;
+  font-size: 1.5625rem;
+  line-height: 1.9200;
 }
 
 h5, .mega {
-  font-size: 1.1250rem;
-  line-height: 1.3333;
+  font-size: 1.2500rem;
+  line-height: 1.2000;
 }
 
 h6, .kilo {
-  font-size: 1.0000rem;
+  font-size: 1.000rem;
   line-height: 1.5000;
 }
 
 small, .milli {
-  font-size: 0.8889rem;
-  line-height: 1.6875;
+  font-size: 0.6400rem;
+  line-height: 1.8750;
   font-weight: 300;
 }
 
