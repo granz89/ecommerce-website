@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
-/* Colours within Document #09cae3 9 202 227 #00b5cc 0 181 204 #addb6a 173 219 106 #f9da6d 249 218 109 */
+/* Colours within Document 
+  blue-#09cae3 9 202 227 
+  darker blue- #00b5cc 0 181 204 
+  darkest blue- #242D2E 36 45 46 
+  green-#addb6a 173 219 106 
+  yellow-#f9da6d 249 218 109 
+  orange-#ffa300 255 163 0 */
 
 html {
   font: normal 100%/1.5 'Oswald', sans-serif; /* 16px/24px */
@@ -32,6 +38,8 @@ h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
   margin: 0 0 1.5rem;
+  padding: 1rem 1rem 0 0.7rem;
+  color: #242D2E;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -95,17 +103,20 @@ small, .milli {
 
 ul {
   list-style-type: none;
+  margin: 0 0 1.5rem;
+  padding-left: 1rem;
 }
 
 ul li {
   position: relative; /* the element can be moved using a cordinate system, but its cordinated are based on where it would have been in the flow */
+
 }
 
 ul li:before {
   content: "•"; /* option+shift+9 for smaller bullet */
   color: #000;
   position: absolute; 
-  left: -1em;
+  /*left: -1em;*/
 }
 
 .medium {

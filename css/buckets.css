@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.bucket { 
+   position: relative; 
+   width: 100%; 
+   margin-left: 1.5rem;
+}
+
+.bucket-sm {
+	background-color: #eee;
+	max-width: 460px;
+	padding-bottom: 40px;
+}
+
+.bucket-lg {
+	background-color: #eee;
+	padding-bottom: 40px;
+	max-width: 1060px;
+}

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+input[type=text] {
+width: 260px;
+padding: 5px;
+padding-right: 40px;
+outline: none;
+border: 1px solid #999999;
+background-color: #FBFBFB;
+font-size: 16px;
+font-weight: 300px;
+font-family: 'Roboto', sans-serif;
+background-image: url('http://www.kirupa.com/images/search.png');
+background-position: 270px -10px;
+background-repeat: no-repeat;
+}
