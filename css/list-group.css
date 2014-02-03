@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.list-group {
+	list-style-type: none;
+}
+
+.list-group-item:before {
+	content:"";
+}
+
+.list-group-item {
+	display: block;
+	margin-right: 0.85rem;
+}
+
+.list-group-item-inline {
+	display: inline-block;
+	/*box-shadow: 1px 1px 3px rgba(0,0,0,0.3);*/
+}
+
+.product {
+	background-color: #eee;
+	max-width: 385px;
+	margin-left: 2rem;
+}
+
+
+
