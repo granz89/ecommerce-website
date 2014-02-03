@@ -13,14 +13,14 @@ html {
 }
 
 ::selection {
-	background-color: #09cae3;
-	color: #fff;
+  background-color: #09cae3;
+  color: #fff;
 } 
 
 a,
 a:link {
-	color: #09cae3;
-	text-decoration: none;
+  color: #09cae3;
+  text-decoration: none;
   transition: all 200ms linear;
 }
 

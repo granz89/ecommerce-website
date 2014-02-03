@@ -6,24 +6,14 @@
 }
 
 .list-group-item:before {
-	content:"";
+	content: none; /*takes bullets*/
 }
 
 .list-group-item {
-	display: block;
-	margin-right: 0.85rem;
+	display: block; /*stacked*/	
 }
 
 .list-group-item-inline {
-	display: inline-block;
-	/*box-shadow: 1px 1px 3px rgba(0,0,0,0.3);*/
+	display: inline-block; /*inline*/
 }
-
-.product {
-	background-color: #eee;
-	max-width: 385px;
-	margin-left: 2rem;
-}
-
-
-
+	

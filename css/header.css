@@ -1,14 +1,63 @@
 @charset "UTF-8";
 /* CSS Document */
 
-header p {
-	color: #fff;
+.nav {
+	padding: 1em 0;
+	text-align: center;
+}
+
+.nav li {
+	padding: 0 10%;
+	margin: 0.5em;
+}
+
+.name {
+	float: left;
+	width: 100%;
+}
+
+@media only screen and (min-width: 40em) {
+	
+	.nav {
+		float: right;
+	}
+	
+	.nav li {
+		padding: 0.25rem;
+		padding-left: 4rem;
+	}
 
 }
 
-header h2 {
-	color: #fff;
-	padding: 1rem 2rem;
+@media only screen and (min-width: 35em) {
+
+	.name {
+	float: none;
+	width: 100%;
+	}
+
+
+	.nav li {
+		padding-top: 1rem;
+		margin-left: -2rem;
+	}
+
 }
 
+@media only screen and (min-width: 25em) {
 
+	.name {
+	float: none;
+	width: 100%;
+	}
+
+	form {
+		padding-top: 2rem;
+	}
+
+	.nav li {
+		padding-top: -1rem;
+		margin-left: -4rem;
+	}
+
+}
