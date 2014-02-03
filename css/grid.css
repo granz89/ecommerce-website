@@ -1,12 +1,14 @@
 .grid {
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	background-color: #444;
 	overflow: hidden; 
 }
 
 .main-grid {
-	border: 1px solid black;
+	/*border: 1px solid black;*/
+	background-color: #eee;
 	overflow: hidden; 
+	padding-top: 2rem;
 }
 
 .unit {
