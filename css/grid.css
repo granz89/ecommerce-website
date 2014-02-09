@@ -10,6 +10,11 @@
 	overflow: hidden; 
 }
 
+.small-promo-grid {
+	background-color: #eee;
+	overflow: hidden; 
+}
+
 .main-grid {
 	/*border: 1px solid black;*/
 	background-color: #eee;
