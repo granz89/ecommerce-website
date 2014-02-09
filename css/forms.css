@@ -21,28 +21,28 @@ background-repeat: no-repeat;
 
 when completely website design chose which search field works better with design */
 
+.bubble {
+	margin-bottom: 4rem;
+}
 
 .search {
-    padding-bottom: 0px;
+    margin-bottom: 5px;
   }
    
-  .search li
-  {
+  .search li {
   	list-style: none;
   	margin: 0 0 0em 0;
  	padding-left: 1em;
  	text-indent: -1em;
  }
   
- .search time
- {
+ .search time {
  	margin-left: 0em;
  	font-size: .75em;
  	color: #00b5cc;
  }
   
- #search
- {
+ #search {
  	font-family: 'Roboto', sans-serif;
  	width: 100%;
 	max-width:200px;
@@ -50,8 +50,7 @@ when completely website design chose which search field works better with design
 	text-align:center;
 }
   
- #search input
- {
+ #search input {
  	width: 80%;
  	font-family: 'Roboto', sans-serif;
  	background-color: #fafafa;
@@ -63,8 +62,7 @@ when completely website design chose which search field works better with design
  	box-shadow: 0 1px 0 rgba(255,255,255,.5);
  }
   
- #search input:focus
- {
+ #search input:focus {
  	outline: none;
  	-webkit-box-shadow: 0 1px 0 rgba(255,255,255,.2), 0 0 8px #4f4f4f;
  	-moz-box-shadow: 0 1px 0 rgba(255,255,255,.2), 0 0 8px #4f4f4f;
@@ -73,7 +71,7 @@ when completely website design chose which search field works better with design
  
  @media only screen and (min-width: 25em) {
 	#search {
-		float:right;
+		/*float:right;
 		margin-left:10em;
 	}
 }

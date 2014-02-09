@@ -22,8 +22,14 @@
 .product {
 	background-color: #eee;
 	max-width: 385px;
-	/*margin-left: 2rem;
-	/*padding-left: 1rem;*/
+	padding-top: 2rem;
+}
+
+.products {
+	background-color: #eee;
+	max-width: 385px;
+	margin-left: 2rem;
+	padding-left: 1rem;
 	padding-top: 2rem;
 }
 
