@@ -22,15 +22,16 @@
 .product {
 	background-color: #eee;
 	max-width: 385px;
-	margin-left: 2rem;
-	padding-left: 1rem;
+	/*margin-left: 2rem;
+	/*padding-left: 1rem;*/
 	padding-top: 2rem;
 }
- 
+
+/*
 .side {
 	padding-top:  2rem;
 	margin-left: 5rem;
-}
+} */
 
 .sides {
 	padding: 0 1rem;
