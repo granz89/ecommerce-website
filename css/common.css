@@ -33,10 +33,23 @@ html {
 	padding: 0 1rem;
 }
 
+.side {
+	padding: 0 2rem;
+}
+
 .top {
 	margin-top: 1rem;
 }
 
 .bottom {
 	margin-bottom:  2rem;
+}
+
+.box {
+	margin: 4rem;
+}
+
+.dots {
+	background-image: url("http://2.bp.blogspot.com/--m15GuMvgks/UXQE4rcfgVI/AAAAAAAAT9E/VsU5NbCIH2k/s1600/BlackPolkaPaper8.png");
+	background-repeat: repeat;
 }
