@@ -37,6 +37,10 @@ html {
 	padding: 0 2rem;
 }
 
+.all-side {
+	padding: 2rem;
+}
+
 .top {
 	margin-top: 1rem;
 }
