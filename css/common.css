@@ -28,3 +28,15 @@ html {
 	display: block;
 	width: 100%;
 }
+
+.sides {
+	padding: 0 1rem;
+}
+
+.top {
+	margin-top: 1rem;
+}
+
+.bottom {
+	margin-bottom:  2rem;
+}
