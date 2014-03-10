@@ -5,8 +5,8 @@
 .product {
 	background-color: #eee;
 	max-width: 385px;
-	/*margin-left: 2rem;
-	/*padding-left: 1rem;*/
+	/*margin-left: 2rem;*/
+	padding-left: 1rem;
 	padding-top: 2rem;
 }
 
@@ -19,6 +19,6 @@ will possible want to use this later on */
 
 .sides {
 	padding: 0 1rem;
-}
+} 
 
 

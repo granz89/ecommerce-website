@@ -1,39 +1,47 @@
 ---
 layout: default
+title: Home
+meta: "Stylish rain protection for everyone: Rainboots, unbrella and more"
+showbanner: yes
+bannertext: JUMP RIGHT IN!
 ---
 <body>
-<div class="grid">
+<div class="grid-white">
 	<div class="unit unit-s-1 unit-m-1 unit-l-1 center">
-		<img class="img-flex all-side top" src="http://placehold.it/900x400" alt="">
+		{% include promo-large.html title="Selected Boots Now 30% Off!" image="adlarge.jpg" %} 
 	</div>
 </div>
 
 <div class="grid">
 	<div class="all-side bottom center"> <!--text has gutter but images dont-->
-			<h2 class="blue">WHO COULDN'T LOVE IT!</h2>
-			<p> Mauris posuere condimentum suscipit. Cras posuere congue venenatis. Maecenas consectetur odio eget vestibulum dictum. Aliquam consectetur, nibh vitae congue condimentum, turpis lacus feugiat metus, ac suscipit sapien nunc eu metus. In hac habitasse platea dictumst. Pellentesque eu iaculis elit. Donec tincidunt eros ut ante pulvinar gravida. Nulla magna lacus, fermentum eget laoreet eu, tincidunt in nulla. </p>
+			<h2 class="spacing-top">WHO COULDN'T LOVE IT!</h2>
+			<p class="spacing-bottom"> Mauris posuere condimentum suscipit. Cras posuere congue venenatis. Maecenas consectetur odio eget vestibulum dictum. Aliquam consectetur, nibh vitae congue condimentum, turpis lacus feugiat metus, ac suscipit sapien nunc eu metus. In hac habitasse platea dictumst. Pellentesque eu iaculis elit. Donec tincidunt eros ut ante pulvinar gravida. Nulla magna lacus, fermentum eget laoreet eu, tincidunt in nulla. </p>
 		</div>
 </div>
 
-
-
-<!-- Sub Options -->
-<div class="main-grid">
-	<div class="unit unit-s-1-2 unit-m-1-3 unit-l-1-3">
-		<div class="gutter bottom"> <!--text has gutter but images dont-->
-			<img class="img-flex sides" src="http://placehold.it/640x480" alt=""> 
-		</div>
-	</div>
-	<div class="unit unit-s-1-2 unit-m-1-3 unit-l-1-3">
-		<div class="gutter"> <!--text has gutter but images dont-->
-			<img class="img-flex sides" src="http://placehold.it/640x480" alt=""> 
+<div class="main-grid-white">
+	<div class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
+		<div class="gutter bottom"> 
+			{% include promo-small.html title="BOOTS" desc="Woman's boots sale!" image="ad1.jpg" %}
 		</div>
 	</div>
 	<div class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
-		<div class="gutter"> <!--text has gutter but images dont-->
-			<img class="img-flex sides" src="http://placehold.it/640x480" alt=""> 
+		<div class="gutter"> 
+			{% include promo-small.html title="UMBRELLAS" desc="Save in the rain!" image="ad3.jpg" %}
 		</div>
 	</div>
+	<div class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
+		<div class="gutter"> 
+			{% include promo-small.html title="KIDS" desc="Deal on small booties!" image="ad2.jpg" %} 
+		</div>
+	</div>
+</div> 
+
+<div class="grid">
+	<div class="all-side bottom center"> <!--text has gutter but images dont-->
+			<h2 class="spacing-top">WE GUARANTEE IT!</h2>
+			<p class="spacing-bottom"> Mauris posuere condimentum suscipit. Cras posuere congue venenatis. Maecenas consectetur odio eget vestibulum dictum. Aliquam consectetur, nibh vitae congue condimentum, turpis lacus feugiat metus, ac suscipit sapien nunc eu metus. In hac habitasse platea dictumst. Pellentesque eu iaculis elit. Donec tincidunt eros ut ante pulvinar gravida. Nulla magna lacus, fermentum eget laoreet eu, tincidunt in nulla. </p>
+		</div>
 </div>
 
 </body>

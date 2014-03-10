@@ -6,20 +6,28 @@
 	margin-top: 1rem;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
-}
+} 
 
 .nav li {
 	padding: 0 10%;
 	margin: 0.5em;
-}
+} 
 
 .name {
 	float: left;
 	width: 100%;
 }
 
-header p {
-	text-align: center;
+.banner {
+  background: #444 url("../images/banner.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 4rem 1rem 1rem;
+  text-align: center;
+  color: #fff;
+}
+
+.current {
+	background-color: #444;
 }
 
 
@@ -35,6 +43,7 @@ header p {
 	}
 
 }
+
 
 @media only screen and (min-width: 35em) {
 
