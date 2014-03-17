@@ -14,7 +14,7 @@ meta: Products offered.
 		{% if products.type == 'selling' %}
 		<li>
 			{{products.title}}
-			<img src="{{site.baseurl}}/images/{{products.image}}" alt="">
+			<a href="{{site.baseurl}}{{products.url}}"><img src="{{site.baseurl}}/images/{{products.image}}" alt=""></a>
 		</li> 
 
 		{% endif %}   
