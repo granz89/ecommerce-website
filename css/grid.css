@@ -1,5 +1,6 @@
+
 .grid {
-	/*border: 1px solid black;*/
+	
 	background-color: #eee;
 	overflow: hidden; 
 }
@@ -33,21 +34,19 @@
 }
 
 .main-grid {
-	/*border: 1px solid black;*/
+	
 	background-color: #eee;
 	overflow: hidden; 
 	padding-top: 2rem;
 }
 
 .main-grid-white {
-	/*border: 1px solid black;*/
 	background-color: #fff;
 	overflow: hidden; 
 	padding-top: 2rem;
 }
 
 .main-grid-white {
-	/*border: 1px solid black;*/
 	background-color: #fff;
 	overflow: hidden; 
 }
@@ -108,5 +107,9 @@
 	
 	.unit-l-2-3 {
 		width: 66.6666%;
+	}
+
+	.unit-l-s {
+		width: 100%;
 	}
 }

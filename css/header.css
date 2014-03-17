@@ -6,11 +6,18 @@
 	margin-top: 1rem;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
+	display:block;
+	background-color: #575757;
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 1rem;
 } 
 
-.nav li {
+/*.nav li {
 	padding: 0 10%;
-	margin: 0.5em;
+	margin: 0.5em;*/
+
 } 
 
 .name {

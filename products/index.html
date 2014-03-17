@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+meta: Products offered.
+---
+
+<h1>Boots and More!</h1>
+<p>The best rainboots and stylish weather gear you could need</p>
+
+<ul>
+	{% for items in site.pages %}
+		{% if items.category == 'products' %}
+		<li>
+		<a href="{{site.baseurl}}{{items.url}}">
+		<img src="{{site.baseurl}}/images/{{items.images}}" alt="">
+			{{items.name}}
+		</a>
+		</li> 
+
+		{% endif %}   
+	{% endfor %}
+</ul>

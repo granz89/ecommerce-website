@@ -2,8 +2,8 @@
 /* CSS Document */
 
 .media {
-	overflow: hidden; /*makes the media div wrap around the image as well - if confused about what is in a div, add a border to temporarily view it*/	
-}
+	overflow: hidden; /*makes the media div wrap around the image as well - if confused about what is in a div, add a border to temporarily view it
+}*/
 
 .media-img {
 	float: left; /*brought the h2 up beside the image*/
