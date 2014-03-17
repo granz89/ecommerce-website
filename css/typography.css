@@ -115,7 +115,7 @@ ul li {
 ul li:before {
   content: "•"; /* option+shift+9 for smaller bullet */
   color: #000;
-  position: absolute; 
+  /*position: absolute; 
   /*left: -1em;*/
 }
 

@@ -7,14 +7,14 @@ meta: Products offered.
 <h1>Boots and More!</h1>
 <p>The best rainboots and stylish weather gear you could need</p>
 
+<h2> Browse our Products</h2>
+
 <ul>
-	{% for items in site.pages %}
-		{% if items.category == 'products' %}
+	{% for products in site.pages %}
+		{% if products.type == 'selling' %}
 		<li>
-		<a href="{{site.baseurl}}{{items.url}}">
-		<img src="{{site.baseurl}}/images/{{items.images}}" alt="">
-			{{items.name}}
-		</a>
+			{{products.title}}
+			<img src="{{site.baseurl}}/images/{{products.image}}" alt="">
 		</li> 
 
 		{% endif %}   
