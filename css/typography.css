@@ -100,10 +100,10 @@ small, .milli {
   font-size: 0.7901rem;
   line-height: 1.8984;
 }
-/*
+
 ul {
   list-style-type: none;
-  margin: 0 0 1.5rem;
+  /*margin: 0 0 1.5rem;*/
   padding-left: 1rem;
 }
 
