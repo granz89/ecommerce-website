@@ -1,16 +1,16 @@
 ---
 layout: default
 category: umbrellas
-title: Green Umbrellas
+title: Lots of Umbrellas
 meta: Selection of colours of umbrellas
-image: umbrellas/umbrella2.jpg
+image: umbrellas/umbrella4.jpg
 ---
 
-BRIGHT GREEN UMBRELLA
+BRIGHT RED UMBRELLA
 
-$30.00 - $25.50 @ 15% OFF - GREEN
+$30.00 - $25.50 @ 15% OFF - RED
 
-COLOUR: GREEN
+COLOUR: RED
 
 ## DETAILS 
 

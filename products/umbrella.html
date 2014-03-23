@@ -5,3 +5,16 @@ type: selling
 meta: Products offered.
 image: ad3.jpg
 ---
+
+<ul>
+	{% for products in site.pages %}
+		{% if products.category == 'umbrellas' %}
+		<li>
+			{{products.title}}
+			<a href="{{site.baseurl}}{{products.url}}"><img src="{{site.baseurl}}/images/{{products.image}}" alt=""></a>
+		</li> 
+
+		{% endif %}   
+	{% endfor %}
+</ul>
+
