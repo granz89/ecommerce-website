@@ -100,7 +100,7 @@ small, .milli {
   font-size: 0.7901rem;
   line-height: 1.8984;
 }
-
+/*
 ul {
   list-style-type: none;
   margin: 0 0 1.5rem;
@@ -111,9 +111,9 @@ ul li {
   position: relative; /* the element can be moved using a cordinate system, but its cordinated are based on where it would have been in the flow */
 
 }
-
+/*
 ul li:before {
-  content: "•"; /* option+shift+9 for smaller bullet */
+  content: "•"; /* option+shift+9 for smaller bullet 
   color: #000;
   /*position: absolute; 
   /*left: -1em;*/
