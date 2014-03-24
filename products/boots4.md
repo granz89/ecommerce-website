@@ -1,16 +1,16 @@
 ---
 layout: default
 category: boots
-title: Blue Dot Boots
+title: Polka Dot Boots
 meta: Selection of colours of umbrellas
 image: boots/boots4.jpg
 ---
 
-BLUE DOT BOOTS
+YELLOW POLKDA DOT BOOTS
 
 $40.00 - $30.00 @ 10% OFF 
 
-COLOUR: BLUE DOT BOOTS
+COLOUR: YELLOW BOOTS
 
 ## DETAILS 
 

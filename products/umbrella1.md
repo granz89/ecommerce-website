@@ -1,16 +1,16 @@
 ---
 layout: default
 category: umbrellas
-title: Pink Umbrella
+title: Red Umbrella
 meta: Selection of colours of umbrellas
 image: umbrellas/umbrella1.jpg
 ---
 
-BRIGHT PINK UMBRELLA
+BRIGHT RED UMBRELLA
 
-$30.00 - $25.50 @ 15% OFF - PINK
+$30.00 - $25.50 @ 15% OFF - RED
 
-COLOUR: PINK
+COLOUR: RED
 
 ## DETAILS 
 

@@ -1,16 +1,16 @@
 ---
 layout: default
 category: boots
-title: Pink Dot Boots
+title: Polka Dot Boots
 meta: Selection of colours of umbrellas
 image: boots/boots3.jpg
 ---
 
-CANDY BOOTS
+PINK POLKA DOT BOOTS
 
 $40.00 - $30.00 @ 10% OFF 
 
-COLOUR: PINK DOT BOOTS
+COLOUR: PINK BOOTS
 
 ## DETAILS 
 

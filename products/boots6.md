@@ -3,14 +3,14 @@ layout: default
 category: boots
 title: polka dot boots
 meta: Selection of colours of umbrellas
-image: boots/boots5.jpg
+image: boots/boots6.jpg
 ---
 
-GREEN POLKDA DOT BOOTS
+RED POLKDA DOT BOOTS
 
 $40.00 - $30.00 @ 10% OFF 
 
-COLOUR: GREEN
+COLOUR: RED
 
 ## DETAILS 
 

@@ -1,16 +1,16 @@
 ---
 layout: default
 category: umbrellas
-title: Blue Umbrellas
+title: Yellow Umbrellas
 meta: Selection of colours of umbrellas
 image: umbrellas/umbrella3.jpg
 ---
 
-BRIGHT BLUE UMBRELLA
+BRIGHT YELLOW UMBRELLA
 
-$30.00 - $25.50 @ 15% OFF - BLUE
+$30.00 - $25.50 @ 15% OFF - YELLOW
 
-COLOUR: BLUE
+COLOUR: YELLOW
 
 ## DETAILS 
 

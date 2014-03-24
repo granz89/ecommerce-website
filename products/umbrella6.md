@@ -1,16 +1,16 @@
 ---
 layout: default
 category: umbrellas
-title: Pink Umbrellas
+title: Lots of Umbrellas
 meta: Selection of colours of umbrellas
-image: umbrellas/umbrella2.jpg
+image: umbrellas/umbrella6.jpg
 ---
 
-BRIGHT PINK UMBRELLA
+BRIGHT PURPLE UMBRELLA
 
-$30.00 - $25.50 @ 15% OFF - PINK
+$30.00 - $25.50 @ 15% OFF - PURPLE
 
-COLOUR: PINK
+COLOUR: PURPLE
 
 ## DETAILS 
 

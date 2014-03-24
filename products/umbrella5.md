@@ -1,16 +1,16 @@
 ---
 layout: default
 category: umbrellas
-title: Lots of Umbrellas
+title: Blue Umbrellas
 meta: Selection of colours of umbrellas
 image: umbrellas/umbrella5.jpg
 ---
 
-BRIGHT PURPLE UMBRELLA
+BRIGHT BLUE UMBRELLA
 
-$30.00 - $25.50 @ 15% OFF - PURPLE
+$30.00 - $25.50 @ 15% OFF - BLUE
 
-COLOUR: PURPLE
+COLOUR: BLUE
 
 ## DETAILS 
 

@@ -1,16 +1,16 @@
 ---
 layout: default
 category: boots
-title: Plaid boots
+title: polka dot boots
 meta: Selection of colours of umbrellas
 image: boots/boots2.jpg
 ---
 
-PLAID BOOTS
+BLUE POLKDA DOT BOOTS
 
 $40.00 - $30.00 @ 10% OFF 
 
-COLOUR: VARIETY
+COLOUR: BLUE
 
 ## DETAILS 
 
