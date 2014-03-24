@@ -10,7 +10,7 @@ image: boots/boots1.jpg
 <div class="main-grid">
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
 		<div class="product sides bottom"> 
-			<h4>Boots</h4>
+			<h2>BOOTS</h2>
 			<img src="/images/boots/boots1.jpg" alt=""></a>	
 		</div>
 	</div>
@@ -23,7 +23,7 @@ image: boots/boots1.jpg
 				<li> Durable interior and exterior </li>
 				<li> Rubber with strong water and stain proof coating </li>
 			</ul>
-			<a class="btn" href="#"> Add to Cart</a><a class="btn btn-alt" href="#"> Check Out</a>
+			<a class="btn" href="{{site.baseurl}}/cart/">Buy Now</a><a class="btn btn-alt" href="{{site.baseurl}}/cart/">View Cart</a>
 		</div>
 	</div>
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
