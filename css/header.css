@@ -8,7 +8,6 @@
 	font-family: 'Oswald', sans-serif;
 	display:block;
 	background-color: #444;
-	text-align: center;
 	color: #444;
 	text-decoration: none;
 } 
@@ -20,7 +19,7 @@
 } 
 
 .name {
-	float: left;
+	float: none;
 	width: 100%;
 }
 
@@ -40,12 +39,12 @@
 @media only screen and (min-width: 40em) {
 	
 	.nav {
-		float: right;
+		float: none;
 	}
 	
 	.nav li {
 		padding: 0.25rem;
-		padding-left: 4rem;
+		padding-left: 0rem;
 	}
 
 }

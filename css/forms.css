@@ -46,7 +46,7 @@ when completely website design chose which search field works better with design
  	font-family: 'Roboto', sans-serif;
  	width: 100%;
 	max-width:200px;
-	margin:-1em auto;
+	margin:1em auto;
 	text-align:center;
 }
   
@@ -71,7 +71,7 @@ when completely website design chose which search field works better with design
  
  @media only screen and (min-width: 25em) {
 	#search {
-		margin-bottom: 5em;
+		margin-bottom: 2em;
 	}
 }
 
