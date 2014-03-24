@@ -1,7 +1,7 @@
 ---
 layout: default
 category: boots
-title: Polka Dot Boots
+title: Blossoming Blush
 meta: Selection of colours of umbrellas
 image: boots/boots3.jpg
 ---

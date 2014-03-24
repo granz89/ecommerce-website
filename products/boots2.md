@@ -1,11 +1,10 @@
 ---
 layout: default
 category: boots
-title: polka dot boots
+title: Invigerating Dew - Rain Boots 
 meta: Selection of colours of umbrellas
 image: boots/boots2.jpg
 ---
-
 
 <div class="main-grid">
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">

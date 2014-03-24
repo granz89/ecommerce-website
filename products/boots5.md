@@ -1,7 +1,7 @@
 ---
 layout: default
 category: boots
-title: polka dot boots
+title: Spring Dance - Rain Boots
 meta: Selection of colours of umbrellas
 image: boots/boots5.jpg
 ---

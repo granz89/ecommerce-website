@@ -1,7 +1,7 @@
 ---
 layout: default
 category: boots
-title: Polka Dot Boots
+title: Summer Daze - Rain Boots
 meta: Selection of colours of umbrellas
 image: boots/boots4.jpg
 ---

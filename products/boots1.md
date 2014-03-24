@@ -1,7 +1,7 @@
 ---
 layout: default
 category: boots
-title: Polka dot boots
+title: Violet Sting - Rain Boots
 meta: Selection of colours of umbrellas
 image: boots/boots1.jpg
 ---

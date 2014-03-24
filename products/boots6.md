@@ -1,7 +1,7 @@
 ---
 layout: default
 category: boots
-title: polka dot boots
+title: Strawberry Eruption - Rain Boots
 meta: Selection of colours of umbrellas
 image: boots/boots6.jpg
 ---
