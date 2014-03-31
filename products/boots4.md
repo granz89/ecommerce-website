@@ -1,36 +1,15 @@
 ---
-layout: default
+layout: items
 category: boots
-title: Summer Daze - Rain Boots
-meta: Selection of colours of umbrellas
+title: Boots
+head: Summer Daze - Rain Boots
+meta: Selection of colours of boots
 image: boots/boots4.jpg
+construct: DURABLE RUBBER BASE
+finish: STAIN PROOF FINISH
+price: $40.00 - $30.00 @ 10% OFF 
+size: AVAILABLE IN SIZE 6-11 WOMANS
 ---
-
-<div class="main-grid">
-	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
-		<div class="product sides bottom"> 
-			<h2>BOOTS</h2>
-			<img src="{{site.baseurl}}/images/boots/boots4.jpg" alt=""></a>	
-		</div>
-	</div>
-	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
-		<div class="product sides bottom"> 
-			<h2>DETAILS</h2>
-			<p>Stylish Yellow Polka Dot Boots</p>
-			<ul>
-				<li> Available in women's size 6 - 11 </li>
-				<li> Durable interior and exterior </li>
-				<li> Rubber with strong water and stain proof coating </li>
-			</ul>
-			<p>$40.00 - $30.00 @ 10% OFF </p>
-			<a class="btn" href="{{site.baseurl}}/cart/"> Add to Cart</a><a class="btn btn-alt" href="{{site.baseurl}}/cart/">Buy it Now</a>
-		</div>
-	</div>
-	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
-		<div class="product sides bottom"> 
-		</div>
-	</div>
-</div>
 
 <!--YELLOW POLKDA DOT BOOTS
 
