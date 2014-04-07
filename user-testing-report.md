@@ -1,6 +1,6 @@
 # User Testing Report
 
-User testing was conducted by Adriana Granieri on March 24, 2014 between the times of {start time} and {end time} with the following participants:
+User testing was conducted by Adriana Granieri on March 24, 2014 between the times of 10am and 10:30am with the following participants:
 
 - Jenna Mclean
 - Kathrine Greenburg
