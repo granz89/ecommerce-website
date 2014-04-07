@@ -2,13 +2,21 @@
 layout: default
 ---
 
-<h1>{{page.name}}</h1>
-
-<dl>
-	<dt>Boots</dt>
-	<dd>{{page.time_period}}</dd>
-	<dt>Umbrella</dt>
-	<dd>{{page.diet}}</dd>
-</dl>
-
-{{content}}
+<div class="main-grid">
+	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 product sides bottom">
+		<h1 class="peta">{{page.name}}</h1>
+		<img src="{{site.baseurl}}/images/{{page.image}}" class="img-flex" alt="photo of product">	
+	</div>
+	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2 product sides bottom">
+			<h2>DETAILS</h2>
+			<p>{{page.head}}</p>
+			<ul>
+				<li>{{page.size}}</li>
+				<li>{{page.construct}}</li>
+				<li>{{page.finish}}</li>
+			</ul>
+			<p>{{page.price}} </p>
+			<a class="btn" href="{{site.baseurl}}/products/"> Go Back</a>
+			<a class="btn btn-alt" href="{{site.baseurl}}/cart/">Buy it Now</a>
+	</div>
+</div>
