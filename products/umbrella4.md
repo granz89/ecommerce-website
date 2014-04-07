@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: products
 category: umbrellas
 title: Umbrella
 head: Bright Green Umbrella

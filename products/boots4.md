@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: products
 category: boots
 title: Boots
 head: Summer Daze - Rain Boots

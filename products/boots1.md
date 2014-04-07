@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: products
 category: boots
 title: Boots
 head: Violet Sting - Rain Boots
