@@ -34,6 +34,15 @@ a:active {
   color: #00b5cc;
 }
 
+a:hover,
+a:active; {
+  outline:none; /*We can remove the outline from mouse-mouse based actions only*/
+}
+
+a:focus {
+  outline: 2px solid; /*The outline MUST be on the focus states for keyboard access, you can also style colour in here*/
+}
+
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
@@ -133,4 +142,8 @@ mark {
 
 .blue {
   color: #00b5cc;
+}
+
+.block {
+  display: block;
 }
