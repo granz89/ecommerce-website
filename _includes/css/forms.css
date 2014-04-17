@@ -1,26 +1,3 @@
-@charset "UTF-8";
-/* CSS Document */
-/*
-input[type=text] {
-margin-top: 20px;
-margin-left: 35px;
-margin-bottom: 20px;
-width: 260px;
-padding: 5px;
-padding-right: 40px;
-outline: none;
-border: 1px solid #999999;
-background-color: #FBFBFB;
-font-size: 16px;
-font-weight: 300px;
-font-family: 'Roboto', sans-serif;
-background-image: "../img/search.png";
-background-position: 270px -10px;
-background-repeat: no-repeat;
-} 		
-
-when completely website design chose which search field works better with design */
-
 .bubble {
 	padding-bottom: 4rem;
 }

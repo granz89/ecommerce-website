@@ -35,7 +35,7 @@ a:active {
 }
 
 a:hover,
-a:active; {
+a:active {
   outline:none; /*We can remove the outline from mouse-mouse based actions only*/
 }
 
@@ -118,14 +118,6 @@ ul {
 
 ul li {
   position: relative; /* the element can be moved using a cordinate system, but its cordinated are based on where it would have been in the flow */
-
-}
-/*
-ul li:before {
-  content: "•"; /* option+shift+9 for smaller bullet 
-  color: #000;
-  /*position: absolute; 
-  /*left: -1em;*/
 }
 
 .medium {
