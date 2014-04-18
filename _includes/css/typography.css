@@ -17,6 +17,10 @@ html {
   color: #fff;
 } 
 
+.black {
+  color: #000;
+}
+
 a,
 a:link {
   color: #09cae3;
