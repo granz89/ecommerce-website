@@ -7,13 +7,13 @@ image: ad3.jpg
 ---
 
 <div class="grid-white">
-	<h1>Umbrellas That Keep You Dry</h1>	
+	<h1 class="top">Umbrellas That Keep You Dry</h1>	
 <ul>
 	{% for products in site.pages %}
 		{% if products.category == 'umbrellas' %}
 		<li class="gutter unit unit-l-1-3">
-			<a class="block" href="{{site.baseurl}}{{products.url}}"><div class="gutter center">{{products.head}}</div></a>
-			<a class="block" href="{{site.baseurl}}{{products.url}}"><img class="img-flex" src="{{site.baseurl}}/images/{{products.image}}" alt="photo of product"></a>
+			<a class="block" href="{{site.baseurl}}{{products.url}}"><div class="gutter center bottom">{{products.head}}</div></a>
+			<a class="block" href="{{site.baseurl}}{{products.url}}"><img class="img-flex bottom" src="{{site.baseurl}}/images/{{products.image}}" alt="photo of product"></a>
 		</li> 
 
 		{% endif %}   

@@ -25,6 +25,12 @@
 	padding-top: 2rem;
 }
 
+.product-white{
+	background-color: #ffffff;
+	max-width: 385px;
+	padding-top: 2rem;
+}
+
 .products {
 	background-color: #eee;
 	max-width: 385px;
