@@ -2,7 +2,7 @@
 layout: products
 category: boots
 title: Boots
-head: Summer Daze - Rain Boots
+head: Sunny - Rain Boots
 meta: Selection of colours of boots
 image: boots/boots4.jpg
 construct: DURABLE RUBBER BASE

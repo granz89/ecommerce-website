@@ -2,7 +2,7 @@
 layout: products
 category: boots
 title: Boots
-head: Sprite Splash - Rain Boots
+head: Sprite - Rain Boots
 meta: Selection of colours of boots
 image: boots/boots2.jpg
 construct: DURABLE RUBBER BASE

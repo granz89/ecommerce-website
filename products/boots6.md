@@ -2,7 +2,7 @@
 layout: products
 category: boots
 title: Boots
-head: Strawberry Eruption - Rain Boots
+head: Kiss - Rain Boots
 meta: Selection of colours of boots
 image: boots/boots6.jpg
 construct: DURABLE RUBBER BASE
@@ -11,14 +11,4 @@ price: $40.00 - $30.00 @ 10% OFF
 size: AVAILABLE IN SIZE 6-11 WOMANS
 ---
 
-<!--RED POLKDA DOT BOOTS
 
-$40.00 - $30.00 @ 10% OFF 
-
-COLOUR: RED
-
-## DETAILS 
-
-- AVAILABLE IN SIZE 6-11
-- STAIN PROOF FINISH
-- RUBBER WITH WATER PROOF COATING-->

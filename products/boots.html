@@ -7,14 +7,14 @@ showbanner: no
 image: ad2.jpg
 ---
 
-<div class="grid-white">
+<div class="grid-white center">
 	<h1 class="top">Boots of All Sorts</h1>
 <ul>
 	{% for products in site.pages %}
 		{% if products.category == 'boots' %}
-		<li class="gutter unit unit-l-1-3">
-			<a class="block" href="{{site.baseurl}}{{products.url}}"><div class="gutter center bottom">{{products.head}}</div></a>
-			<a class="block" href="{{site.baseurl}}{{products.url}}"><img class="img-flex bottom" src="{{site.baseurl}}/images/{{products.image}}" alt="photo of product"></a>
+		<li class="gutter unit unit-s-1 unit-m-1-2 unit-m1-1-2 unit-l-1-3">
+			<a class="center giga" href="{{site.baseurl}}{{products.url}}"><div class="gutter center bottom">{{products.head}}</div></a>
+			<a class="center" href="{{site.baseurl}}{{products.url}}"><img class="img-flex bottom" src="{{site.baseurl}}/images/{{products.image}}" alt="photo of product"></a>
 		</li> 
 
 		{% endif %}   
