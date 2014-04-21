@@ -22,7 +22,7 @@
 	padding-top: 2rem;
 }
 
-.product-white{
+.white{
 	background-color: #ffffff;
 	max-width: 385px;
 	padding-top: 2rem;
@@ -35,5 +35,10 @@
 	padding-left: 1rem;
 	padding-top: 2rem;
 }
+
+.sides {
+	padding: 0 1rem;
+} 
+
 
 

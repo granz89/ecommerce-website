@@ -10,6 +10,5 @@
 {% include css/grid.css %}
 {% include css/footer.css %}
 {% include css/header.css %}
-{% include css/product-details.css %}
 {% include css/product-list.css %}
 {% include css/promos.css %}
