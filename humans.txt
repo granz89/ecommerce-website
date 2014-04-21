@@ -1,0 +1,21 @@
+
+                            
+/* TEAM */
+
+                            
+Adriana Granieri - Designer                             
+gran0230@algonquinlive.com                       
+@granz89
+Ottawa, Ontario
+							
+/* THANKS */
+							
+Spashes 
+            
+/* SITE */
+
+                            
+Last update: 2014/04/21
+Standards: HTML5, CSS3
+Components: jQuery, jekyll
+Software: Sublime Text 2
